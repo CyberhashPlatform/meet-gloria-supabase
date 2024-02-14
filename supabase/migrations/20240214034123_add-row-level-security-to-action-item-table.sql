@@ -1,0 +1,1 @@
+alter table action_item enable row level security;

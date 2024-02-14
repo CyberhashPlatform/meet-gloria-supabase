@@ -1,0 +1,1 @@
+alter table employees enable row level security;
